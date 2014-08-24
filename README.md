@@ -33,7 +33,7 @@ For tidySamsungData.txt, the data are organized into 180 rows and 88 columns.
 
 - The first column represents the subject Identifier (subjectID) for each of      the 30 volunteers who participated in the experiement. 
 
-- The second column represents the type of activity (activityLabel) being     measured.
+- The second column represents the type of activity (activityLabel) being measured.
 
 - The remaining columns contain the mean values for each specific mean or 
   standard deviation value originally collected.
